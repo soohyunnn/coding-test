@@ -53,8 +53,4 @@ public class String7 {
         System.out.println(T.solution(str));
     }
 
-
-
-
-
 }
