@@ -53,7 +53,7 @@ class Lecture implements Comparable<Lecture> {
         return ob.date - this.date;
     }
 }
-public class Test4 {
+public class  Test4 {
     static int n, max = Integer.MIN_VALUE;
     public int solution(ArrayList<Lecture> arr) {
         int answer = 0;

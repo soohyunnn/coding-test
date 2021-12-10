@@ -1,5 +1,6 @@
-package com.test.coding.repeat.ttdstudy;
+package com.test.coding.ttdstudy;
 
+//행위 중심 코드(프로퍼티가 먼저 나오는걸 데이터 중심 코드)
 public class Game {
     private int rolls[] = new int[21];  //총 게임횟수
     private int currentRoll = 0;  //몇번째 라운드인지

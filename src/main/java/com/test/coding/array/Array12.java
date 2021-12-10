@@ -111,7 +111,30 @@ public class Array12 {
 //        int m = kb.nextInt();
 //        int[][] arr = new int[m][n];
 //        for(int i=0; i<m; i++){
-//            for(int j=0; j<n; j++) {
+//            for(int j=0; j<n; j++) {public class Array12 {
+////
+////    public int solution(int n, int m, int[][] arr) {
+////        int answer = 0;
+////
+////        return answer;
+////    }
+////
+////    public static void main(String[] args) {
+////        Array12 T = new Array12();
+////        Scanner kb = new Scanner(System.in);
+////        int n = kb.nextInt();
+////        int m = kb.nextInt();
+////        int[][] arr = new int[m][n];
+////        for(int i=0; i<m; i++){
+////            for(int j=0; j<n; j++) {
+////                arr[i][j] = kb.nextInt();
+////            }
+////        }
+////        System.out.println(T.solution(n, m, arr));
+////
+////    }
+////
+////}
 //                arr[i][j] = kb.nextInt();
 //            }
 //        }

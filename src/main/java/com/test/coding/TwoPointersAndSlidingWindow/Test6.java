@@ -81,4 +81,18 @@ public class Test6 {
 //        int n = kb.nextInt();
 //        System.out.println(T.solution(n));
 //    }
+//}//public class Test6 {
+//
+//    public int solution(int n) {
+//        int answer = 0;
+//
+//        return answer;
+//    }
+//
+//    public static void main(String[] args) {
+//        Test6 T = new Test6();
+//        Scanner kb = new Scanner(System.in);
+//        int n = kb.nextInt();
+//        System.out.println(T.solution(n));
+//    }
 //}

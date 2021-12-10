@@ -35,14 +35,14 @@ import java.util.Scanner;
  * B
  * A
  * B
- * D우
+ * D
  *
  * A 또는 B하나를 기준으로 로직을 짜면 이중 for문을 돌리지 않아도 된다.
  * if A가 비겼을 경우
  * else if A가 가위로 이겼을 경우
  * else if A가 바위로 이겼을 경우
  * else if A가 보로 이겼을 경우
- * else B가 이겼을 경
+ * else B가 이겼을 경우
  *
  */
 public class Array3 {
